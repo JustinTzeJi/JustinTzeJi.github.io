@@ -1,0 +1,37 @@
+baseURL : 'https://justintzeji.github.io'
+languageCode : 'en-us'
+title : 'JustinTzeJi'
+theme: "PaperMod"
+
+params:
+    defaultTheme: auto 
+    ShowBreadCrumbs: true
+    enableEmoji: true
+    profileMode:
+        enabled: true
+        title: Justin Koay Tze Ji
+        subtitle: i like biology, data and fun stuff
+        imageUrl: "/frog.png" 
+        imageTitle: "frog" 
+        imageWidth: 80 
+        imageHeight: 80 
+        buttons:
+            - name: portfolio
+              url: "/work/"
+            - name: resume
+              url: "/resume/resume"
+
+    socialIcons: 
+        - name: "email"
+          url: "mailto:justintzeji@gmail.com"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/JustinTzeJi"
+        - name: "github"
+          url: "https://github.com/JustinTzeJi"
+        - name: "huggingface"
+          url: "https://huggingface.co/justintzeji"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
