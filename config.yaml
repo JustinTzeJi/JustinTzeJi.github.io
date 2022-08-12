@@ -30,6 +30,8 @@ params:
           url: "https://github.com/JustinTzeJi"
         - name: "huggingface"
           url: "https://huggingface.co/justintzeji"
+        - name: "rosalind"
+          url: "https://rosalind.info/users/justintzeji/"
 
 markup:
   goldmark:
