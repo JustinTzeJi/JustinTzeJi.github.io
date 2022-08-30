@@ -1,6 +1,9 @@
 ---
 title: "Flipside Dashboards"
 draft: False
+cover:
+    image: "flipside.png"
+    relative: false
 ---
 
 Here, I will be showcasing all of my existing analytics dashboards from [Flipside Crypto](https://flipsidecrypto.xyz/) bounties.
