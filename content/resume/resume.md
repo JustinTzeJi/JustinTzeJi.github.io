@@ -4,15 +4,18 @@ draft: False
 ---
 
 ## Experience
+**Data Scientist I, Oct 2022 - Present** AirAsia, Selangor
+
+
 **Research Assistant, Sep 2020 - Sep 2022** School of Data Science, Perdana University, Kuala Lumpur
 - Produce pipeline for preprocessing datasets, using multiple bioinformatics tools
 - Performing analysis on the preprocessed dataset, eg: differentially expressed gene analysis, machine learning for classification analysis
 - Generate progress reports
 
-**Internship, Oct-Dec 2018** B. Braun Medical Industries Sdn. Bhd., Penang 
-- Measured and reported on workstation environment cleanliness and brightness 
-- Supporting studies on the Automated Gluing Project for the Elastomeric Pump Assembly 
-- Revision of the Sub-microbore Assembly Standard Operating Procedure 
+**Internship, Oct-Dec 2018** B. Braun Medical Industries Sdn. Bhd., Penang
+- Measured and reported on workstation environment cleanliness and brightness
+- Supporting studies on the Automated Gluing Project for the Elastomeric Pump Assembly
+- Revision of the Sub-microbore Assembly Standard Operating Procedure
 
 ---
 
@@ -36,7 +39,10 @@ draft: False
 
 ## Computer Skills
 Programming Languages
-: Python, Snowflake SQL, R, Javascript, Snakemake
+: Python, Snowflake SQL, R, Javascript, Snakemake, Kubernetes
+
+Cloud Computing
+: Google Cloud Platform
 
 Software
 : Adobe Illustrator, Adobe Photoshop, DaVinci Resolve, GIMP 2
@@ -45,19 +51,19 @@ Software
 
 ## Language Skills
 English
-: Proficient (MUET Band 4) 
+: Proficient (MUET Band 4)
 
 Mandarin
 : Fluent  
 
 Malay
-: Conversational 
+: Conversational
 
 Hokkien
 : Fluent
 
 Japanese
-: Beginner 
+: Beginner
 
 ---
 
@@ -81,5 +87,3 @@ See dashboards I've created for Flipside [here](/work/flipside-dashboards)
 - Providing customer support
 - Managing workshop websites
 - Setting up and managing workshop Discord server
-
-

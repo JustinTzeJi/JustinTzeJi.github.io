@@ -10,7 +10,7 @@ params:
     profileMode:
         enabled: true
         title: Justin Koay Tze Ji
-        subtitle: i like biology, data and fun stuff
+        subtitle: Data Scientist I at AirAsia
         imageUrl: "/frog.png" 
         imageTitle: "frog" 
         imageWidth: 80 
