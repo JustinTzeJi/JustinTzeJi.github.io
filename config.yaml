@@ -28,8 +28,8 @@ params:
           url: "https://www.linkedin.com/in/JustinTzeJi"
         - name: "github"
           url: "https://github.com/JustinTzeJi"
-        - name: "huggingface"
-          url: "https://huggingface.co/justintzeji"
+        # - name: "huggingface"
+        #   url: "https://huggingface.co/justintzeji"
         - name: "rosalind"
           url: "https://rosalind.info/users/justintzeji/"
 

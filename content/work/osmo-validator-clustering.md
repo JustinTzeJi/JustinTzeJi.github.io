@@ -11,4 +11,4 @@ cover:
 
 [GitHub repo](https://github.com/JustinTzeJi/osmo-prop)
 
-<iframe src="https://justintzeji-osmo-prop-streamlit-run-yqvlqt.streamlitapp.com/?embedded=true" width="800" height="800" frameBorder="0">Your browser does not load iframe</iframe>
+<iframe src="https://justintzeji-osmo-prop-streamlit-run-yqvlqt.streamlitapp.com/?embedded=true" width="1000" height="1000" frameBorder="0">Your browser does not load iframe</iframe>

@@ -1,6 +1,6 @@
 ---
 title: "Malaysia COVID-19 Dashboard [Work in progress]"
-draft: False
+draft: True
 weight: 2
 cover:
     image: "cov.png"
