@@ -5,7 +5,12 @@ draft: False
 
 ## Experience
 **Data Scientist I, Oct 2022 - Present** AirAsia, Selangor
-
+- Develop ETL pipelines  using Airflow, BigQuery and Python
+- Develop Machine Learning models such as XGBoost, Random Forest
+- Deploying Fast API endpoints for Machine learning models
+- Developing dashboards on Looker Studio
+- Performing exploratory analyses and feasibility studies for new datasets, and problem statements
+- Developing methodologies for external data collection, data scraping and data mining
 
 **Research Assistant, Sep 2020 - Sep 2022** School of Data Science, Perdana University, Kuala Lumpur
 - Produce pipeline for preprocessing datasets, using multiple bioinformatics tools
@@ -39,10 +44,10 @@ draft: False
 
 ## Computer Skills
 Programming Languages
-: Python, Snowflake SQL, R, Javascript, Snakemake, Kubernetes
+: Python (Pandas, numpy, Sci-kit learn, Hyperopt-sklearn, Streamlit, FastAPI, Plotly, request-html, Pyspark), Vega/Vega-lite, Airflow, Terraform, Git, Snowflake SQL, R
 
 Cloud Computing
-: Google Cloud Platform
+: Google Cloud Platform (BigQuery, Looker Studio, Google Kubernetes Engine, Google Cloud Storage)
 
 Software
 : Adobe Illustrator, Adobe Photoshop, DaVinci Resolve, GIMP 2
