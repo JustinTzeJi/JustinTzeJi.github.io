@@ -4,13 +4,18 @@ draft: False
 ---
 
 ## Experience
-**Data Scientist I, Oct 2022 - Present** AirAsia, Selangor
+**Junior Data Scientist, May 2024 - Present** Unit Nukleus Govtech, Putrajaya
+
+
+**Data Scientist I, Oct 2022 - June 2024** AirAsia, Selangor
 - Develop ETL pipelines  using Airflow, BigQuery and Python
 - Develop Machine Learning models such as XGBoost, Random Forest
 - Deploying Fast API endpoints for Machine learning models
 - Developing dashboards on Looker Studio
 - Performing exploratory analyses and feasibility studies for new datasets, and problem statements
 - Developing methodologies for external data collection, data scraping and data mining
+
+*Projects Involved:* Booking Performance Forecasting, Blocktime Forecasting, etc
 
 **Research Assistant, Sep 2020 - Sep 2022** School of Data Science, Perdana University, Kuala Lumpur
 - Produce pipeline for preprocessing datasets, using multiple bioinformatics tools

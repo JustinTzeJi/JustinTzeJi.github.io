@@ -10,7 +10,7 @@ params:
     profileMode:
         enabled: true
         title: Justin Koay Tze Ji
-        subtitle: Data Scientist I at AirAsia
+        subtitle: Junior Data Scientist at Unit Nukleus Govtech
         imageUrl: "/frog.png" 
         imageTitle: "frog" 
         imageWidth: 80 
