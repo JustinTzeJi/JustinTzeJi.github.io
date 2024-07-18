@@ -11,10 +11,10 @@ params:
         enabled: true
         title: Justin Koay Tze Ji
         subtitle: Junior Data Scientist at Unit Nukleus Govtech
-        imageUrl: "/frog.png" 
-        imageTitle: "frog" 
-        imageWidth: 80 
-        imageHeight: 80 
+        # imageUrl: "/frog.png" 
+        # imageTitle: "frog" 
+        # imageWidth: 80 
+        # imageHeight: 80 
         buttons:
             - name: portfolio
               url: "/work/"
