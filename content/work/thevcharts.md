@@ -1,5 +1,5 @@
 ---
-title: "A WASM wrapper for Charts by Thevesh - powered by Marimo"
+title: "A WASM wrapper for Charts by Thevesh"
 draft: False
 weight: 1
 ---
