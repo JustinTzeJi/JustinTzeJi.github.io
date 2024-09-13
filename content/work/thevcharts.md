@@ -10,4 +10,4 @@ Here's a wasm wrapper for the repo [https://github.com/Thevesh/charts](https://g
 
 it runs on your browser!
 
-<iframe src="https://marimo.app/?slug=qotsuc&mode=read&show-code=false&embed=true" width="100%" height="1300" frameBorder="0">Your browser does not load iframe</iframe>
+<iframe src="https://marimo.io/p/@justin/thev-charts?embed=true&mode=read&show-code=false" width="100%" height="1300" frameBorder="0">Your browser does not load iframe</iframe>
